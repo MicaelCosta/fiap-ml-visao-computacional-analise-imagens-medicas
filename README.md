@@ -87,4 +87,4 @@ Crie uma [Issue](https://github.com/michelpf/fiap-ml-visao-computacional-capston
 
 ### Solução
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/MicaelCosta/fiap-ml-visao-computacional-analise-imagens-medicas/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MicaelCosta/fiap-ml-visao-computacional-analise-imagens-medicas/blob/master/projeto-final/analise-imagens-medicas-colab.ipynb)
